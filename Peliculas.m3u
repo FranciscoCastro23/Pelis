@@ -5,3 +5,12 @@ https://www997.ff-02.com/token=ziDgI40bej_P4XL5gzqU4g/1629235212/190.92.0.0/26/d
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" ,Infinite
 https://pr13.sbcdnvideo.com/hls/tysxfuynlc66j6cdadib5hstec444pleaaflquxdlxwtvocunffytt7ogqxq/index-v1-a1.m3u8
+
+#EXTINF:0,BeIN SPORTS News HD
+http://163.172.17.191:5890/live/brahim1/918.ts
+
+#EXTINF:0,BeIN SPORTS News HD
+http://163.172.17.191:5890/live/brahim1/1042.ts
+
+#EXTINF:0,BeIN SPORTS News HD
+http://163.172.17.191:5890/live/brahim1/1603.ts
